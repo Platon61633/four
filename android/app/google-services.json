@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "516669608993",
+    "project_id": "four-b8eb6",
+    "storage_bucket": "four-b8eb6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516669608993:android:74537811769d5984287f60",
+        "android_client_info": {
+          "package_name": "com.example.four"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACDIvxXlWsMaCyTqc5S2526IwG24_7nPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
